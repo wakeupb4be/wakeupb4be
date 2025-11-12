@@ -1,6 +1,7 @@
 Informatic Engeneering Student with competence such as:
 - Full-Stack Coding
 - IOT and Microcontrollers
+  
 finishing the 3rd Year of studies.
 
 
