@@ -1,4 +1,8 @@
-## Hi there 👋
+Informatic Engeneering Student with competence such as:
+- Full-Stack Coding
+- IOT and Microcontrollers
+finishing the 3rd Year of studies.
+
 
 <!--
 **wakeupb4be/wakeupb4be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
